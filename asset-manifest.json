@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Pagin/static/css/main.586e34c6.css",
+    "main.js": "/Pagin/static/js/main.7c593491.js",
+    "index.html": "/Pagin/index.html",
+    "static/media/spinner1-svgrepo-com.svg": "/Pagin/static/media/spinner1-svgrepo-com.e9bb14a8083af2fb6143eb11d2c9883a.svg",
+    "main.586e34c6.css.map": "/Pagin/static/css/main.586e34c6.css.map",
+    "main.7c593491.js.map": "/Pagin/static/js/main.7c593491.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.586e34c6.css",
+    "static/js/main.7c593491.js"
+  ]
+}
