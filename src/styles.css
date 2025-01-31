@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.wraper {
+  margin: auto;
+  width: fit-content;
+}
+.spiner {
+  margin: auto;
+  display: block;
+  max-width: 100px;
+  transform: rotate(360deg);
+  animation: spiner infinite 3s linear;
+}
+
+@keyframes spiner {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
